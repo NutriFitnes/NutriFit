@@ -94,3 +94,19 @@ footer { border-top: 1px solid rgba(255,255,255,.1); padding: 70px 0; }
   .kpi { font-size: 38px; }
   .footer-grid { grid-template-columns: 1fr; }
 }
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+}
+
+footer a {
+  color: #00ff99;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
